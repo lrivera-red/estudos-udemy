@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34b307d7-dcb8-430c-af3e-47aec3000c3e" name="Changes" comment="Project start" />
+    <list default="true" id="34b307d7-dcb8-430c-af3e-47aec3000c3e" name="Changes" comment="Project start">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +53,11 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.lookFeel",
+    "spring.configuration.checksum": "d2a63416760837f849036d0543d7ae6a",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -86,7 +92,8 @@
       <workItem from="1673297250778" duration="970000" />
       <workItem from="1673298233320" duration="32000" />
       <workItem from="1673298272592" duration="171000" />
-      <workItem from="1673298451310" duration="2093000" />
+      <workItem from="1673298451310" duration="2723000" />
+      <workItem from="1674159152747" duration="625000" />
     </task>
     <task id="LOCAL-00001" summary="Project start">
       <created>1673302929464</created>
