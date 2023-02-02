@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34b307d7-dcb8-430c-af3e-47aec3000c3e" name="Changes" comment="Project start">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/estudos/domain/entity/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/estudos/domain/entity/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/estudos/domain/entity/ItemPedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/estudos/domain/entity/ItemPedido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/estudos/domain/entity/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/estudos/domain/entity/Pedido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/estudos/domain/entity/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/estudos/domain/entity/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/estudos/domain/repository/Clientes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/estudos/domain/repository/Clientes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/estudos/domain/repository/ItemsPedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/estudos/domain/repository/ItemsPedido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/estudos/domain/repository/Pedidos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/estudos/domain/repository/Pedidos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/estudos/domain/repository/Produtos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/estudos/domain/repository/Produtos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/meu_schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/meu_schema.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/estudos/rest/controller/ProdutoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/estudos/rest/controller/ProdutoController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +113,7 @@
       <workItem from="1673298451310" duration="2723000" />
       <workItem from="1674159152747" duration="2723000" />
       <workItem from="1675341599107" duration="593000" />
-      <workItem from="1675342246057" duration="576000" />
+      <workItem from="1675342246057" duration="2132000" />
     </task>
     <task id="LOCAL-00001" summary="Project start">
       <created>1673302929464</created>
